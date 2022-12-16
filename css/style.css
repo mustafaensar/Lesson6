@@ -66,7 +66,7 @@ header.sticky {
     border-radius: 0.8rem;
 }
 
-section {
+section {/* transition, fade in, fade out ile gecisler eklenebilir*/
     padding: 200px 15%;
 }
 
